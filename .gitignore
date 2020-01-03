@@ -5,8 +5,3 @@
 *.sln
 *.sdf
 *.suo
-/Content/*
-!/Content/Collections
-!/Content/Developers
-!/Content/abcdeTEST
-
